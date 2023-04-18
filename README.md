@@ -8,6 +8,7 @@
 ## Important links
 
 * [📚 Simple Books API documentation](./simple-books-api.md)
+* [🟠 Postman Project] (./
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/77129444/232896850-b3723833-b455-4c11-8f7d-596518e41717.png">
 
